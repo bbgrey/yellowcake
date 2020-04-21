@@ -1,31 +1,25 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Clínica dental en Barcelona | Sarrià
 featuredImage: >-
   https://ucarecdn.com/249ca9a8-1684-4b65-b94c-a6988ec06f09/-/preview/-/enhance/100/
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: >-
+  Somos un equipo dentistas y de profesionales de la salud apasionados por
+  nuestra profesión, nuestra clínica dental se encuentra en el barrio de Sarriá
+  en Barcelona ciudad.
+
+
+  Dentistas especializados en implantes cerámicos y odontología sin metal
+  (clínica metal-free).
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+## Odontología natural y biosegura
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Nuestro proyecto como todas las cosas importantes de la vida empezó pequeño y con mucha ilusión. Juntamos un equipo de profesionales de prestigio en la odontología con una visión en común de la medicina natural, liderados por el Dr. Olivier Chéron. 
 
-# Features
+Nuestra clínica no es una franquicia y está especializada en tratamientos naturales para devolver el equilibrio de la salud bucal de nuestros pacientes. Para nosotros tener los dientes sanos pasa por devolver el equilibrio de la salud global del paciente a través de la odontología neurofocal.
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Nuestro concepto de clínica dental EQUILIBRIA surge de la idea de que para Equilibrar tu salud general es necesario Equilibrar tu salud bucal.
